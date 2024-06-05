@@ -1,3 +1,4 @@
+/*This is  Git example*/
 import java.util.Scanner;
 class Addition2
 {
