@@ -1,4 +1,4 @@
-/*This is  Git example*/
+/*This program is Addition */
 import java.util.Scanner;
 class Addition2
 {
